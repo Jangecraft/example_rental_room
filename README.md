@@ -1,1 +1,0 @@
-# example_rental_room
